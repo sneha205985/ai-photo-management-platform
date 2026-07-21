@@ -1,0 +1,15 @@
+venv/
+.git/
+.github/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+
+credentials/
+data/photos/
+data/*.db
+*.db
+
+app_faces_working_backup/
+tests/

@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.env
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.cursor/
+
+# Databases
+*.db
+*.sqlite3
+
+# Logs
+*.log
+
+# Credentials
+credentials/
+google_client_secret.json
+google_token.json
+
+# Personal Google Photos
+data/photos/google_photos/
+
+# Hugging Face cache
+.cache/
+.huggingface/
+
+# Test cache
+.pytest_cache/
+
+# Build files
+dist/
+build/
